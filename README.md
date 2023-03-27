@@ -6,3 +6,5 @@ This is a group project for ALX Software Engineering program. It is required by 
 | ---------- | ------------------------ | ------ |
 | 225917     | Browni Wilson            | 12     |
 | 270900     | Bismark Dwamena-Akenteng | 12     |
+
+lets add some few tricks
