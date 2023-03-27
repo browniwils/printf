@@ -1,4 +1,4 @@
-# 0x11. C - printf
+# 0x11. C - printf Project
 This is a group project for ALX Software Engineering program. It is required by us to imitate the features of the <code>***printf()***</code> function in the standard library of C programming language.
 
 ### Group Members
