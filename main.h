@@ -12,8 +12,8 @@ int _write_char(char c);
 
 /* REGULAR FUNCTIONS */
 int print_char(char c);
-
-
+int print_decimal(int n);
+int print_string(char *s);
 
 
 
